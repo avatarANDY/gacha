@@ -1,1 +1,1 @@
-http://47.242.105.114:8080/AssetsGachaChicken_test/
+http://47.242.105.114:8080/AssetsGachaChicken/
